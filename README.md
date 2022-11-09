@@ -1,2 +1,3 @@
 Project made for the Faculty of Frameworks and Database, This project was developed with Reactjs on the front-end and Firebase on the back-end, a MiniBlog project where people can enter and register on the social network and post photos of your day to day, and also next to this site there is a CRUD (Create, Read, Update and Delete) on the dashboard page where the person can view her post, edit and delete it as she wants.
 Through this project I was able to learn more and more about the functions of Reactjs and Firebase that make our work easier, now it's time to keep working to get more results.
+https://miniblog-projeto.vercel.app/
